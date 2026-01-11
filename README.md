@@ -894,9 +894,7 @@ Ingress:
 
 ## Complete Components List
 
-Grand Total: **CHF 3,741.34** (≈$4,700 USD)
-
-| Component                                                        | Quantity   | Retailer        | Price (total)                                  |
+| Component                                                        | Quantity   | Retailer        | Price                                          |
 | :--------------------------------------------------------------- | :--------- | :-------------- | :--------------------------------------------- |
 | ASUS Pro WS W790E-SAGE SE (LGA4677, Intel W790, SSI EEB)         | 1          | digitec.ch      | CHF 962.90                                     |
 | Intel Xeon W5-2455X (3.2 GHz, 12-core)                           | 1          | galaxus.ch      | CHF 1106.00                                    |
@@ -910,3 +908,4 @@ Grand Total: **CHF 3,741.34** (≈$4,700 USD)
 | Noctua NF-A12x25 G2 PWM (120 mm)                                 | 1          | digitec.ch      | CHF 34.90                                      |
 | Mellanox/NVIDIA BlueField-2 BF2H532C dual-port 25G (PCIe 4.0 x8) | 3          | piospartslap.de | 289,92 €<br>+ 49,99 € shipping<br>(CHF 318.09) |
 | 25G SFP28 passive DAC cable 0.5 m                                | 3          | ricardo.ch      | CHF 51.15<br>+ CHF 2.00 shipping               |
+| **Grand Total**                                                  |            |                 | **CHF 3,741.34**<br>(≈$4,700 USD)              |
