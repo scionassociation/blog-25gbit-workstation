@@ -583,8 +583,8 @@ repeated throughout the whole process just to be on the safe side.
 For the first time in my life, I held a server-grade CPU in my hand - and I have to say, it's massive! Easily two to three times the size of a typical consumer CPU.
 
 <p align="center">
-  <img src="cpu_top.jpg" width="45%">
-  <img src="cpu_bottom.jpg" width="45%">
+  <img src="img/cpu_top.jpg" width="45%">
+  <img src="img/cpu_bottom.jpg" width="45%">
 </p>
 
 The installation process does differ from your regular consumer CPU, and it's
