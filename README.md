@@ -898,15 +898,15 @@ Grand Total: **CHF 3,741.34** (≈$4,700 USD)
 
 | Component                                                        | Quantity   | Retailer        | Price (total)                                  |
 | :--------------------------------------------------------------- | :--------- | :-------------- | :--------------------------------------------- |
-| ASUS Pro WS W790E-SAGE SE (LGA4677, Intel W790, SSI EEB)         | 1          | Digitec/Galaxus | CHF 962.90                                     |
-| Intel Xeon W5-2455X (3.2 GHz, 12-core)                           | 1          | Galaxus         | CHF 1106.00                                    |
-| Corsair DDR5 RDIMM 64 GB (4×16 GB, 5600 MT/s, ECC)               | 1          | Galaxus         | CHF 536.00                                     |
-| Corsair RM850e (850 W)                                           | 1          | Galaxus         | CHF 113.00                                     |
-| Samsung 990 Pro w/ Heatsink (1 TB, M.2 2280)                     | 1          | Digitec         | CHF 101.00                                     |
-| Noctua NH-U14S DX-4677 CPU cooler                                | 1          | Digitec/Galaxus | CHF 132.00                                     |
-| Phanteks Enthoo Pro II Server Edition TG (SSI-EEB)               | 1          | Galaxus         | ~CHF 170.00                                    |
-| Noctua NF-A14 PWM (140 mm)                                       | 6          | Digitec/Galaxus | CHF 149.40                                     |
-| Noctua NF-A12x25 G2 PWM Sx2-PP (120 mm, 2-pack)                  | 1 (2 fans) | Digitec/Galaxus | CHF 64.90                                      |
-| Noctua NF-A12x25 G2 PWM (120 mm)                                 | 1          | Digitec/Galaxus | CHF 34.90                                      |
+| ASUS Pro WS W790E-SAGE SE (LGA4677, Intel W790, SSI EEB)         | 1          | digitec.ch      | CHF 962.90                                     |
+| Intel Xeon W5-2455X (3.2 GHz, 12-core)                           | 1          | galaxus.ch      | CHF 1106.00                                    |
+| Corsair DDR5 RDIMM 64 GB (4×16 GB, 5600 MT/s, ECC)               | 1          | galaxus.ch      | CHF 536.00                                     |
+| Corsair RM850e (850 W)                                           | 1          | galaxus.ch      | CHF 113.00                                     |
+| Samsung 990 Pro w/ Heatsink (1 TB, M.2 2280)                     | 1          | digitec.ch      | CHF 101.00                                     |
+| Noctua NH-U14S DX-4677 CPU cooler                                | 1          | digitec.ch      | CHF 132.00                                     |
+| Phanteks Enthoo Pro II Server Edition TG (SSI-EEB)               | 1          | galaxus.ch      | ~CHF 170.00                                    |
+| Noctua NF-A14 PWM (140 mm)                                       | 6          | digitec.ch      | CHF 149.40                                     |
+| Noctua NF-A12x25 G2 PWM Sx2-PP (120 mm, 2-pack)                  | 1 (2 fans) | digitec.ch      | CHF 64.90                                      |
+| Noctua NF-A12x25 G2 PWM (120 mm)                                 | 1          | digitec.ch      | CHF 34.90                                      |
 | Mellanox/NVIDIA BlueField-2 BF2H532C dual-port 25G (PCIe 4.0 x8) | 3          | piospartslap.de | 289,92 €<br>+ 49,99 € shipping<br>(CHF 318.09) |
-| 25G SFP28 passive DAC cable 0.5 m                                | 3          | Ricardo.ch      | CHF 51.15<br>+ CHF 2.00 shipping               |
+| 25G SFP28 passive DAC cable 0.5 m                                | 3          | ricardo.ch      | CHF 51.15<br>+ CHF 2.00 shipping               |
