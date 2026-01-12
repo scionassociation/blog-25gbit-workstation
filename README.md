@@ -615,8 +615,7 @@ lanes if the pins don't line up perfectly. The Q-code LED displayed `64`, which,
 to the manual, means `CPU DXE initialization is started`. At that point, I assumed
 something had to be wrong with either the CPU or RAM. I reseated both multiple times, wasting several hours in the process, but without any success.
 
-
-![Q-code table from the manual](img/q_code_table.pn.webp)
+![Q-code table from the manual](img/q_code_table.webp)
 
 I even installed the old GTX TITAN GPU, which I previously confirmed to have
 worked on another system:
