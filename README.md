@@ -29,14 +29,12 @@ SCION
 (**S**calability, **C**ontrol, and **I**solation **O**n Next-Generation **N**etworks),
 is, in a nutshell, an IETF draft-stage technology of a growing alternative to the
 [Border Gateway Protocol (BGP)](https://en.wikipedia.org/wiki/Border_Gateway_Protocol).
-It's a new inter-[AS](https://en.wikipedia.org/wiki/Autonomous_system_(Internet))
+It's a innovative inter-[AS](https://en.wikipedia.org/wiki/Autonomous_system_(Internet))
 routing architecture designed to address BGP's fundamental flaws and security
 vulnerabilities.
 
-Maybe at some point in the distant future the Internet will run SCION. Most likely
-though, SCION and BGP will run side-by-side.
-What is clear, though, is that critical infrastructure should run on SCION,
-where:
+Maybe at some point in the future the Internet will run SCION, although a more likely scenario is that SCION and BGP will run alongside each other.
+What is clear, though, is that critical infrastructure should run on SCION, where:
 
 - path authenticity
 - explicit path control (e.g. geofencing)
@@ -48,14 +46,14 @@ are required and best-effort BGP routing is an unacceptable risk.
 The national bank of Switzerland realized this and since 2024
 Switzerland's banking infrastructure now runs on the SCION-powered
 [SSFN](https://www.six-group.com/en/products-services/banking-services/ssfn.html),
-which relies on the proprietary implementation from
-[Anapaya Systems AG](https://www.anapaya.net/) that currently provide up to 100 Gbit/s
+which relies on the commercial implementation from
+[Anapaya Systems AG](https://www.anapaya.net/) that currently provides up to 100 Gbit/s
 border router solutions. The free open source implementation
-[github.com/scionproto/scion](https://github.com/scionproto/scion) received numerous
-dataplane performance improvements over the past years but is still lagging behind.
+[github.com/scionproto/scion](https://github.com/scionproto/scion) has received significant
+dataplane performance improvements over the past years, but is still requires further work.
 
 If we want to do video calls (and similar high-bandwidth use cases) over
-SCION OSS en masse - dataplane performance needs to improve.
+SCION OSS en masse - the dataplane performance needs to improve.
 Thanks to funding by the [NLnet Foundation](https://nlnet.nl/) we've been working on a new
 faster [AF_XDP](https://docs.kernel.org/networking/af_xdp.html) border router underlay.
 
@@ -886,11 +884,6 @@ Ingress:
   rx_packets_phy delta: 1000000126
   rx_bytes_phy   delta: 1504000017713
 ```
-
-## Next Goal
-
-In the next post, I want to share implementation details and more benchmark results
-of the SCION OSS AF_XDP underlay, so stay tuned!
 
 ## Complete Components List
 
