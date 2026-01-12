@@ -75,7 +75,7 @@ On the higher end, take the Juniper "MX10008 Universal Routing Platforms" with u
 
 ![Juniper MX1000x routing platform specs](img/juniper_mx1000x.webp)
 
-These kinds of systems support per-port line rates of 400–500 Gbit/s, depending on the
+These kinds of systems support per-port line rates of 400-500 Gbit/s, depending on the
 interface configuration. Individual packet streams carried over such ports can therefore
 be forwarded at or near full line rate without being bottlenecked by software overhead,
 while massive parallelization across ports enables aggregate bandwidths in the
@@ -254,9 +254,10 @@ in the networking space, particularly due to platform features such as
 [Intel Data Direct I/O (DDIO)](https://www.intel.com/content/www/us/en/io/data-direct-i-o-technology.html),
 which allows NICs to DMA packet data directly into the CPU's L3 cache instead of main memory.
 
-Three BF-2 NICs require one PCIe slot and eight PCIe Gen4 lanes (16GT/s) each,
-which means the system needs a proper workstation-grade mainboard that can not only
-accommodate this configuration but also leave room for future expansion.
+In our benchmark topology we ideally need 5-6 NICs. Three BF-2 cards, each with 2 ports,
+consume one PCIe slot and 8 PCIe Gen4 lanes (16 GT/s), which means the system needs a
+proper workstation-grade mainboard that can not only accommodate this configuration but
+also leave room for future expansion.
 Once we reach 25 Gbit/s, it would be desirable to have the option to upgrade the NICs and
 move toward the 100 Gbit/s range without having to replace the entire platform.
 
