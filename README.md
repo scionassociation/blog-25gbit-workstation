@@ -99,7 +99,7 @@ parallelization would cause unacceptable levels of packet reordering.*
 ### The Linux Networking Stack
 
 The SCION OSS border router is a Linux user-space program.
-It relies solely on the Linux Networking Stack.
+It relies solely on the Linux networking stack.
 
 ![Schematic for the packet flow paths through Linux networking and *tables by Jan Engelhardt](img/linux_networking_stack.svg)
 
@@ -847,7 +847,7 @@ and tunneled the connection through Tailscale.
 By the way, finding the BMC's LAN IP and MAC address turned into yet another multi-hour
 adventure, as they weren't written down anywhere - not in the documentation and
 not on the board itself. First, I tried to scan the local network, but that approach
-proved futile. Later, I connected my Macbook to the management port directly via
+proved futile. Later, I connected my MacBook to the management port directly via
 ethernet cable and used `tcpdump` to inspect the traffic and determine the MAC.
 Unfortunately, it seems like the ASPEED AST2600 BMC doesn't speak proper
 [ARP](https://en.wikipedia.org/wiki/Address_Resolution_Protocol).
