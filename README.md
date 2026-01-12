@@ -573,7 +573,7 @@ high-performance NIC and removes the DPU from the data path.
 ## Assembly
 
 Finally, it was time to start assembling the new SCION workstation. To be honest,
-I got a bit nervous. The last system I assembled a system was years ago. I had help from
+I got a bit nervous. The last time I assembled a system was years ago. I had help from
 my younger brother and it wasn't nearly as expensive as this shiny new piece of
 workstation hardware.
 
