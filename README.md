@@ -93,7 +93,7 @@ near Zurich city.
 
 SCION OSS needs to do better; a lot better.
 
-*\* A "stream" is defined here as an flow of packets from a specific source address to
+*\* A "stream" is defined here as a flow of packets from a specific source address to
 a specific destination address that cannot be parallelized across multiple threads as
 parallelization would cause unacceptable levels of packet reordering.*
 
