@@ -14,7 +14,7 @@ especially in high bandwidth scenarios.
 In this article, I'll walk you through the entire planning, building, and
 configuration process in almost full detail.
 
-It's hard to say how many hours I spent on it.
+It’s hard to say how many hours went into it, but it was clearly a multi-week endeavor.
 In total it cost us CHF ~3,741.34 (around ≈$4,700 USD) in materials.
 See the [complete list of components](#complete-components-list) at the end.
 
