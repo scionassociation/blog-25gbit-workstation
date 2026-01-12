@@ -438,10 +438,6 @@ finally given up.
 
 Rest in peace, comrade 🪦.
 
-I won't forget how much fun we had together: Wargame: Red Dragon, Skyrim, The Witcher 3,
-Cities: Skylines, Dying Light. There was no game too heavy for you. And you almost got
-that 25G NIC running!
-
 Luckily, I have a new gaming PC with Linux on it. I just didn't want to disassemble it,
 but now I had no choice. The fans and the fat RTX 3090 with the bracket that prevents
 it from bending the PCIe slot under its immense weight needed to be removed and make
