@@ -887,6 +887,11 @@ Ingress:
   rx_bytes_phy   delta: 1504000017713
 ```
 
+## Next Goal
+
+In the next post, I want to share implementation details and more benchmark results
+of the SCION OSS AF_XDP underlay, so stay tuned!
+
 ## Complete Components List
 
 | Component                                                        | Quantity   | Retailer        | Price                                          |
