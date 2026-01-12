@@ -674,7 +674,8 @@ The result is a self-inflicted lockout.
 I found it out by using [ipmitool](https://linux.die.net/man/1/ipmitool):
 
 ```sh
-~ % ipmitool -I lanplus -H 192.168.1.152 -U admin -P $PASS chassis status lanplus: password is longer than 20 bytes.
+~ % ipmitool -I lanplus -H 192.168.1.152 -U admin -P $PASS
+chassis status lanplus: password is longer than 20 bytes.
 ```
 
 The only way to recover from this is to log into the host system and reset the BMC password using `ipmitool`.
