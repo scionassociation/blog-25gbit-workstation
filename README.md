@@ -786,7 +786,7 @@ asic:         +59.0°C  (crit = +105.0°C, highest = +70.0°C)
 
 ## Configuring For Use
 
-One more thing left to do, was to configure this workstation for upcoming work.
+One more thing left to do was to configure this workstation for upcoming work.
 I needed to figure out which NIC is which in Linux and interconnect them.
 
 The easiest way to do so was to connect a card to itself (port 1 -> port 2),
