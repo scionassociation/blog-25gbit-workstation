@@ -392,10 +392,7 @@ The first components to arrive were the BlueField-2 NICs, followed shortly by th
 
 ---
 
-After a significant delay, the CPU, PSU, and RAM finally showed up too.
-
-Even though we paid extra for earlier RAM delivery, it was still delayed - unsurprising, but disappointing nevertheless. In my experience, Digitec/Galaxus delivery time promises
-only seem to hold about 50% of the time these days.
+After a significant delay, the CPU, PSU, and RAM finally showed up too. The RAM delay was unsurprising.
 
 ![RAM order delay message](img/ram_order_delay.webp)
 
